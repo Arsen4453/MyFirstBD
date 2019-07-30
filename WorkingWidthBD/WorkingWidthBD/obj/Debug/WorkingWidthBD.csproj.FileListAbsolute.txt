@@ -1,0 +1,12 @@
+D:\C#\Projct1\WorkingWidthBD\WorkingWidthBD\bin\Debug\Database1.mdf
+D:\C#\Projct1\WorkingWidthBD\WorkingWidthBD\bin\Debug\Database1_log.ldf
+D:\C#\Projct1\WorkingWidthBD\WorkingWidthBD\bin\Debug\WorkingWidthBD.exe.config
+D:\C#\Projct1\WorkingWidthBD\WorkingWidthBD\bin\Debug\WorkingWidthBD.exe
+D:\C#\Projct1\WorkingWidthBD\WorkingWidthBD\bin\Debug\WorkingWidthBD.pdb
+D:\C#\Projct1\WorkingWidthBD\WorkingWidthBD\obj\Debug\WorkingWidthBD.csprojAssemblyReference.cache
+D:\C#\Projct1\WorkingWidthBD\WorkingWidthBD\obj\Debug\WorkingWidthBD.Form1.resources
+D:\C#\Projct1\WorkingWidthBD\WorkingWidthBD\obj\Debug\WorkingWidthBD.Properties.Resources.resources
+D:\C#\Projct1\WorkingWidthBD\WorkingWidthBD\obj\Debug\WorkingWidthBD.csproj.GenerateResource.cache
+D:\C#\Projct1\WorkingWidthBD\WorkingWidthBD\obj\Debug\WorkingWidthBD.csproj.CoreCompileInputs.cache
+D:\C#\Projct1\WorkingWidthBD\WorkingWidthBD\obj\Debug\WorkingWidthBD.exe
+D:\C#\Projct1\WorkingWidthBD\WorkingWidthBD\obj\Debug\WorkingWidthBD.pdb
